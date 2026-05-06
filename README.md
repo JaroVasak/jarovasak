@@ -58,7 +58,7 @@ Cloud DevOps engineer with **10+ years in IT** and **4+ years in cloud infrastru
 
 ## 🌍 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaroslav--vasak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaroslav-vasak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jvasak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvasak)
 [![Website](https://img.shields.io/badge/Website-jvasak.com-000000?style=flat-square&logo=safari&logoColor=white)](https://jvasak.com)
 [![Email](https://img.shields.io/badge/Email-jaro@jvasak.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaro@jvasak.com)
 
