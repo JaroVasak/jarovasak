@@ -1,14 +1,14 @@
 # Hey, I'm Jaroslav
-
 **Senior DevOps / Platform Engineer · Prague · Remote-first**
-
 ![Open to work](https://img.shields.io/badge/Open%20to-DevOps%20%2F%20Platform%20Engineer%20roles-brightgreen?style=flat-square)
 
 ---
 
-Cloud DevOps engineer with **10+ years in IT** and **4+ years in cloud infrastructure**. I build automation that eliminates manual work — from IaC-driven onboarding platforms to EKS modernisation and cost optimisation at scale. Primarily on **AWS**, comfortable across Azure and GCP.
+Senior DevOps engineer with **10+ years** designing, automating, and operating cloud infrastructure — primarily on **AWS and Azure**, with a strong hands-on focus on **Terraform and Kubernetes**.
 
-> I care about systems that are *reproducible, observable, and boring in the best way.*
+> I build systems that are *reproducible, modular, and boring in the best possible way.*
+
+Recent work: full EKS ownership (1.27 → 1.35, AL2 → AL2023, gp2 → gp3, killed a 100GB+/month memory leak) and a fully automated customer onboarding platform that cut provisioning from 5 days to minutes across AWS, Gandi DNS, Cassandra, and Confluent Cloud Kafka.
 
 ---
 
