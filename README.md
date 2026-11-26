@@ -44,6 +44,18 @@ Recent work: Azure cost management and observability tuning at NIBE (~$4k/month 
 
 ---
 
+## 🚀 Featured Project
+
+**[wordpress](https://github.com/JaroVasak/wordpress)**: production multi-site WordPress hosting on a single Hetzner server, fully as code. Runs 4 sites for under €2 per site per month.
+
+- Terraform + cloud-init provisioning, with a firewall that only accepts Cloudflare traffic
+- Traefik with Cloudflare DNS-01 certificates; isolated Nginx/PHP-FPM containers per site on a shared MariaDB
+- One-command site onboarding and backups; secrets injected at runtime, never stored in files
+- Daily rollouts that test changes on one site first, with health checks and automatic rollback
+- CI: ShellCheck, Terraform tests, config validation, Trivy scanning; Renovate for pinned dependency updates
+
+---
+
 ## 💼 Recent Experience
 
 - **Cloud DevOps Engineer · NIBE** (Aug 2026 – Nov 2026) — Azure cost management for a ~$1,000/day environment, Application Insights cost reduction, SRE & alert-quality work
